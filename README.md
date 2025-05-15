@@ -99,14 +99,14 @@ php artisan migrate
 ```bash
 php artisan serve
 ```
+Akses API di:  
+`http://localhost:8000`
+
 
 Jangan lupa untuk membuat link storage
 ```bash
 php artisan storage:link
 ```
-
-Akses API di:  
-`http://localhost:8000`
 
 ### 7. Dokumentasi API Swagger
 
